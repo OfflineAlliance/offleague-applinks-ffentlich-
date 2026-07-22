@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "57ZM8HX656.com.offleague.app",
+        "paths": ["/join", "/join/*"]
+      }
+    ]
+  }
+}
